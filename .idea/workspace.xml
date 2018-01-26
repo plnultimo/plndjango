@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ad12297-ffe8-4dc7-bd42-de2bbe18395b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cesia.js" afterPath="$PROJECT_DIR$/js/cesia.js" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,28 +28,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cesia.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cesia.js">
+      <file leaf-file-name="cesia.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/cesia.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="121" column="52" lean-forward="false" selection-start-line="121" selection-start-column="52" selection-end-line="121" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="60" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="117" selection-end-column="7" />
               <folding>
-                <marker date="1516892040391" expanded="true" signature="2488:2498" ph="..." />
-                <marker date="1516892040391" expanded="true" signature="2632:2643" ph="..." />
-                <marker date="1516892040391" expanded="true" signature="3022:3033" ph="..." />
-                <marker date="1516892040391" expanded="true" signature="3363:3398" ph="..." />
-                <marker date="1516892040391" expanded="true" signature="3431:3442" ph="..." />
+                <marker date="1516903077084" expanded="true" signature="2424:2434" ph="..." />
+                <marker date="1516903077084" expanded="true" signature="2568:2579" ph="..." />
+                <marker date="1516903077084" expanded="true" signature="2958:2969" ph="..." />
+                <marker date="1516903077084" expanded="true" signature="3369:3380" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +80,7 @@
       <list>
         <option value="$PROJECT_DIR$/cesia.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/cesia.js" />
       </list>
     </option>
   </component>
@@ -79,9 +91,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="745" />
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,6 +119,11 @@
               <item name="cesia" type="b2602c69:ProjectViewProjectNode" />
               <item name="cesia" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cesia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cesia" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -116,11 +134,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ppln" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\cesia\js" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\github\cesia" />
     </key>
@@ -150,16 +171,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516891813766</updated>
-      <workItem from="1516891815252" duration="226000" />
+      <workItem from="1516891815252" duration="13343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226000" />
+    <option name="totallyTimeSpent" value="13343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -199,25 +219,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cesia.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.3.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="121" column="52" lean-forward="false" selection-start-line="121" selection-start-column="52" selection-end-line="121" selection-end-column="52" />
+        <state relative-caret-position="255">
+          <caret line="60" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="117" selection-end-column="7" />
           <folding>
-            <marker date="1516892040391" expanded="true" signature="2488:2498" ph="..." />
-            <marker date="1516892040391" expanded="true" signature="2632:2643" ph="..." />
-            <marker date="1516892040391" expanded="true" signature="3022:3033" ph="..." />
-            <marker date="1516892040391" expanded="true" signature="3363:3398" ph="..." />
-            <marker date="1516892040391" expanded="true" signature="3431:3442" ph="..." />
+            <marker date="1516903077084" expanded="true" signature="2424:2434" ph="..." />
+            <marker date="1516903077084" expanded="true" signature="2568:2579" ph="..." />
+            <marker date="1516903077084" expanded="true" signature="2958:2969" ph="..." />
+            <marker date="1516903077084" expanded="true" signature="3369:3380" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/cesia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
